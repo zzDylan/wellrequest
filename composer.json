@@ -12,7 +12,8 @@
     "minimum-stability": "dev",
     "require": {},
 	"autoload": {
-        "psr-4": {
-            "Godylan\\Wellrequest\\": "src/Wellrequest"
-        }
+			"psr-4": {
+				"Godylan\\Wellrequest\\": "src/Wellrequest"
+			}
+	}
 }
