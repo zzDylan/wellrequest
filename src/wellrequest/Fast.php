@@ -1,5 +1,5 @@
 <?php
-namespace Godylan\Wellrequest;
+namespace Zzdylan\Wellrequest;
 //
 class Fast{
 	public function get($url){
