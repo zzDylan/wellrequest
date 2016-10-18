@@ -1,6 +1,6 @@
 <?php
 namespace Godylan\Wellrequest;
-
+//
 class Fast{
 	public function get($url){
 		//初始化  
