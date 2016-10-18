@@ -9,11 +9,11 @@
             "email": "527844046@qq.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {},
 	"autoload": {
 			"psr-4": {
-				"Zzdylan\\Wellrequest\\": "src/"
+				"Wellrequest\\": "src/"
 			}
 	}
 }
