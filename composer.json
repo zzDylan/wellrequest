@@ -1,5 +1,5 @@
 {
-    "name": "godylan/dylanhttp",
+    "name": "zzdylan/dylanhttp",
     "description": "get and post",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     "require": {},
 	"autoload": {
 			"psr-4": {
-				"Godylan\\Wellrequest\\": "src/Wellrequest"
+				"Zzdylan\\Wellrequest\\": "src/Wellrequest"
 			}
 	}
 }
