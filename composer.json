@@ -13,7 +13,7 @@
     "require": {},
 	"autoload": {
 			"psr-4": {
-				"Zzdylan\\Wellrequest\\": "src/Wellrequest"
+				"Zzdylan\\Wellrequest\\": "src/"
 			}
 	}
 }
